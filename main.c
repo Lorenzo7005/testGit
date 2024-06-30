@@ -1,5 +1,5 @@
 #import main.h;
 
 void main() {
-    printf("Hello World!");
+    printf("Hello " + world);
 }
